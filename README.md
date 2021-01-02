@@ -76,9 +76,9 @@ A simple serial port tool for Linux/Windows/Mac. It's written by Python and Qt (
 	2. use pip to install pqcom - `pip install pqcom`
 	
 	3.instalar essa versão
-	  3.1 baixar a pasta
-	  3.2 executar: sudo python3 setup.py build
-	  3.3 executar: sudo python3 setup.py install
+	3.1 baixar a pasta
+	3.2 executar: sudo python3 setup.py build
+	3.3 executar: sudo python3 setup.py install
 	  
 -	Windows
 
